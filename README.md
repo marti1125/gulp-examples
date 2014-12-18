@@ -1,4 +1,6 @@
-gulp-samples
+Examples with gulp
 ============
 
-gulp samples
+gulp examples
+
+    $ npm install
